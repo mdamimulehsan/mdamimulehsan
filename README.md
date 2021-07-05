@@ -1,12 +1,19 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mehrab</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
+
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I+AM+Amimul+Ehsan....;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 <h3 align="center">I'm a passionate Web Developer from Bangladesh.</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Department of CSE in Unniversity of Asia Pacific Website](https://cse.uap-bd.edu/)**
+- 🔭 I’m currently working on **[Unniversity of Asia Pacific Website](https://cse.uap-bd.edu/)**
 
 - 🌱 I’m currently Studying  **BSc. in CSE.**
 
@@ -16,7 +23,7 @@
 
 - 📫 How to reach me **mehrab.uapcse@gmail.com**
 
-- ⚡ Fun fact **I play games and watch movie very often.**
+- ⚡ Fun fact: **I play games and watch movie very often.**
 
 ## 🚀 Languages and Tools:
 
@@ -40,6 +47,13 @@
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
 
+<div align="center">
+  <h3 align="center">Connect with me <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
+
+<div align="center">
+<img   src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</div>
 
 <br/>
 
@@ -69,7 +83,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.facebook.com/ehsan266/"><img src="https://img.icons8.com/fluent/48/000000/facebook.png"/></a>
+<a href = "https://www.facebook.com/ehsan266/"><img src="<https://img.icons8.com/fluent/48/000000/facebook-new.png"/></a>
 <a href = "https://www.linkedin.com/in/md-amimul-ehsan-mehrab-591359210/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/amimulehsan16"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 <a href = "https://www.instagram.com/anin266/?hl=en"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
